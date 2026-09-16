@@ -13,3 +13,4 @@ Click Save.
 GitHub will display the public URL after the first deployment completes.
 Local preview
 Open docs/index.html in a browser, or serve the repository with any static file server.
+https://eliandino.github.io/
